@@ -1,1 +1,2 @@
-- gprof figure should be fixed ("??" is not the correct figure number)
+- gprof figure should be fixed ("??" is not the correct figure number).
+- 'using' should be capitalized in title of report.
