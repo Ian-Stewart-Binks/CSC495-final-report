@@ -1,3 +1,6 @@
+Fixed:
 - gprof figure should be fixed ("??" is not the correct figure number).
 - 'using' should be capitalized in title of report.
 - In the intro, user should read use.
+===
+Not fixed:
